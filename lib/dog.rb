@@ -9,3 +9,7 @@ end
 def snoopy 
   Dog.new
 end
+
+def lassie 
+  Dog.new
+end
