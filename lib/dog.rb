@@ -2,9 +2,7 @@ class Dog
   
 end
 
-def fido 
-  Dog.new
-end
+fido = Dog.new
 
 def snoopy 
   Dog.new
